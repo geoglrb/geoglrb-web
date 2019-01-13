@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<iframe src="https://geoglrb.github.io/geoglrb-web/test-sketch.html"></iframe>
+<iframe src="https://geoglrb.github.io/geoglrb-web/test-sketch.html" height=300 width=500></iframe>
 
 You can use the [editor on GitHub](https://github.com/geoglrb/geoglrb-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
